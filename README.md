@@ -4,12 +4,17 @@
 
 Web Development and Designing
 
-Level 1 :- 
+Level 1 :- Task 1: Landing Page
 
-Task 1: Landing Page
+# Travel Landing Page
 
-Task 2: Portfolio
+A responsive landing page built using core web development skills.
 
-Task 3: Temperature Converter
+## 🛠️ Tech Stack
+- HTML, CSS, JavaScript
+- Visual Studio Code
 
-LinkedIn: https://www.linkedin.com/in/karan-mistry-4222951a5/
+## ✨ Highlights
+- Multi-section responsive layout
+- Custom design using CSS
+- Beginner-level project
